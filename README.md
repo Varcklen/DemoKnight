@@ -1,6 +1,6 @@
 # DemoKnight
 
-DemoKnight is one of the first Unity projects I created when I learned the editor.
+DemoKnight is one of the first Unity projects I created when I learned the editor. This project was created in the summer of 2021.
 
 <b>What is the game?</b><br>
 You control a square man with a sword who can move around in a closed room and attack. Your goal is to defeat as many opponents as possible before dying. Opponents are diamond-shaped men, which may differ slightly in color and behavior (some run faster and attack, and some do more damage).
